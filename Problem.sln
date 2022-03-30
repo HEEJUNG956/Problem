@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 2번 - �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 3번 - 최대공약소최소공배수", "2페이지 level 1 3번 - 최대공약소최소공배수\2페이지 level 1 3번 - 최대공약소최소공배수.csproj", "{E4B67485-FD04-4A92-89E0-8C984367D72E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 4번 - 짝수와홀수", "2페이지 level 1 4번 짝수와홀수\2페이지 level 1 4번 - 짝수와홀수.csproj", "{CF55298E-7DD6-40A3-B1F6-CD80F6E91A0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{E4B67485-FD04-4A92-89E0-8C984367D72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4B67485-FD04-4A92-89E0-8C984367D72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4B67485-FD04-4A92-89E0-8C984367D72E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF55298E-7DD6-40A3-B1F6-CD80F6E91A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF55298E-7DD6-40A3-B1F6-CD80F6E91A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF55298E-7DD6-40A3-B1F6-CD80F6E91A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF55298E-7DD6-40A3-B1F6-CD80F6E91A0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
