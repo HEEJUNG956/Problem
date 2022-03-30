@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CF55298E-7DD6-40A3-B1F6-CD80F6E91A0C}</ProjectGuid>
+    <ProjectGuid>{B688BE4E-7B01-407F-AFDB-BCA8F372F2F4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_2페이지_level_1_4번_짝수와홀수</RootNamespace>
-    <AssemblyName>2페이지 level 1 4번 짝수와홀수</AssemblyName>
+    <RootNamespace>_2페이지_level_1_4번___짝수와홀수</RootNamespace>
+    <AssemblyName>2페이지 level 1 4번 - 짝수와홀수</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

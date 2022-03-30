@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2페이지_level_1_4번_짝수와홀수
+namespace _2페이지_level_1_4번___짝수와홀수
 {
     class Solution
     {
@@ -17,7 +17,7 @@ namespace _2페이지_level_1_4번_짝수와홀수
     {
         static void Main(string[] args)
         {
-            int num = Int32.Parse(Console.ReadLine()); 
+            int num = Int32.Parse(Console.ReadLine());
             Solution s = new Solution();
             string answer = s.solution(num);
             Console.WriteLine(answer);

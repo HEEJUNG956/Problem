@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 어셈블리에 대한 일반 정보는 다음 특성 집합을 통해 
 // 제어됩니다. 어셈블리와 관련된 정보를 수정하려면
 // 이러한 특성 값을 변경하세요.
-[assembly: AssemblyTitle("2페이지 level 1 4번 짝수와홀수")]
+[assembly: AssemblyTitle("2페이지 level 1 4번 - 짝수와홀수")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("2페이지 level 1 4번 짝수와홀수")]
+[assembly: AssemblyProduct("2페이지 level 1 4번 - 짝수와홀수")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 이 프로젝트가 COM에 노출되는 경우 다음 GUID는 typelib의 ID를 나타냅니다.
-[assembly: Guid("cf55298e-7dd6-40a3-b1f6-cd80f6e91a0c")]
+[assembly: Guid("b688be4e-7b01-407f-afdb-bca8f372f2f4")]
 
 // 어셈블리의 버전 정보는 다음 네 가지 값으로 구성됩니다.
 //
