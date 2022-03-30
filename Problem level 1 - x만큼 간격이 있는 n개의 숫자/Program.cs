@@ -11,6 +11,7 @@ namespace Problem_level_1___x만큼_간격이_있는_n개의_숫자
         static void Main(string[] args)
         {
             // 정수 x와 자연수 n을 입력 받아, x부터 시작해 x씩 증가하는 숫자를 n개 지니는 리스트를 리턴해야 합니다. 
+            // n개의숫자 분기확인용
             String[] s;
             s = Console.ReadLine().Split(' ');
 
