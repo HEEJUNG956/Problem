@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem level 1 - 직사각형별찍기", "Problem level 1 - 직사각형별찍기\Problem level 1 - 직사각형별찍기.csproj", "{ACC319E8-AB0D-4A6E-AB0C-38419695589D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC319E8-AB0D-4A6E-AB0C-38419695589D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC319E8-AB0D-4A6E-AB0C-38419695589D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC319E8-AB0D-4A6E-AB0C-38419695589D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC319E8-AB0D-4A6E-AB0C-38419695589D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {619ABE18-2C9A-47C2-916A-69180F23C19F}
+	EndGlobalSection
+EndGlobal
