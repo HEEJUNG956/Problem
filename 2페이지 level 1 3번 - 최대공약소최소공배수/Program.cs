@@ -28,8 +28,7 @@ namespace _2페이지_level_1_3번___최대공약소최소공배수
             int b = Int32.Parse(Console.ReadLine());
             Solution solution = new Solution();
             int[] answer = solution.solutioin(a, b);
-            
-
+            Console.WriteLine(answer);
         }
     }
 }
