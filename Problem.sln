@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem level 1 - 직사각형별찍기", "Problem level 1 - 직사각형별찍기\Problem level 1 - 직사각형별찍기.csproj", "{ACC319E8-AB0D-4A6E-AB0C-38419695589D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3페이지 level 1 1번- 직사각형별찍기", "Problem level 1 - 직사각형별찍기\3페이지 level 1 1번- 직사각형별찍기.csproj", "{ACC319E8-AB0D-4A6E-AB0C-38419695589D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem level 1 - x만큼 간격이 있는 n개의 숫자", "Problem level 1 - x만큼 간격이 있는 n개의 숫자\Problem level 1 - x만큼 간격이 있는 n개의 숫자.csproj", "{1F2EC270-307F-4E50-9318-5DD82CF44D0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3페이지 level 1 2번- x만큼 간격이 있는 n개의 숫자", "Problem level 1 - x만큼 간격이 있는 n개의 숫자\3페이지 level 1 2번- x만큼 간격이 있는 n개의 숫자.csproj", "{1F2EC270-307F-4E50-9318-5DD82CF44D0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem level 1 - 행렬의 덧셈", "Problem level 1 - 행렬의 덧셈\Problem level 1 - 행렬의 덧셈.csproj", "{A70AAF0F-1689-457A-8CAB-BB21D589F4D9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3페이지 level 1 3번- 행렬의 덧셈", "Problem level 1 - 행렬의 덧셈\3페이지 level 1 3번- 행렬의 덧셈.csproj", "{A70AAF0F-1689-457A-8CAB-BB21D589F4D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem level 1 - 핸드폰 번호 가리기", "Problem level 1 - 핸드폰 번호 가리기\Problem level 1 - 핸드폰 번호 가리기.csproj", "{538DCCEE-57D4-4AE0-B9AF-22C23E60625B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3페이지 level 1 4번- 핸드폰 번호 가리기", "Problem level 1 - 핸드폰 번호 가리기\3페이지 level 1 4번- 핸드폰 번호 가리기.csproj", "{538DCCEE-57D4-4AE0-B9AF-22C23E60625B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem level 1 - 하샤드 수", "Problem level 1 - 하샤드 수\Problem level 1 - 하샤드 수.csproj", "{69EA4176-22D0-41E0-9A16-D9D1A538F172}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3페이지 level 1 5번- 하샤드 수", "Problem level 1 - 하샤드 수\3페이지 level 1 5번- 하샤드 수.csproj", "{69EA4176-22D0-41E0-9A16-D9D1A538F172}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
