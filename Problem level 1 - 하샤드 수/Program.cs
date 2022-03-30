@@ -11,6 +11,7 @@ namespace Problem_level_1___하샤드_수
         static void Main(string[] args)
         {
             /*양의 정수 x가 하샤드 수이려면 x의 자릿수의 합으로 x가 나누어져야 합니다.*/
+            //브랜치 생성 이후 push 확인용
             int x = Convert.ToInt32(Console.ReadLine());
             int tmp = x;
             int value = 0;
