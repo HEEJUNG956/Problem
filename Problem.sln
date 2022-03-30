@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 3번 - �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 4번 - 짝수와홀수", "2페이지 level 1 4번 - 짝수와홀수\2페이지 level 1 4번 - 짝수와홀수.csproj", "{B688BE4E-7B01-407F-AFDB-BCA8F372F2F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2페이지 level 1 5번 - 작은 수 제거하기", "2페이지 level 1 5번 - 작은 수 제거하기\2페이지 level 1 5번 - 작은 수 제거하기.csproj", "{A53D8533-261A-4176-A365-A154D04D5336}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B688BE4E-7B01-407F-AFDB-BCA8F372F2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B688BE4E-7B01-407F-AFDB-BCA8F372F2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B688BE4E-7B01-407F-AFDB-BCA8F372F2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A53D8533-261A-4176-A365-A154D04D5336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53D8533-261A-4176-A365-A154D04D5336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53D8533-261A-4176-A365-A154D04D5336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53D8533-261A-4176-A365-A154D04D5336}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
