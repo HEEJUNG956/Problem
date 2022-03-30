@@ -11,6 +11,7 @@ namespace Problem_level_1___직사각형별찍기
         static void Main(string[] args)
         {
             // 별(*) 문자를 이용해 가로의 길이가 n, 세로의 길이가 m인 직사각형 형태를 출력해보세요.
+            // 직사각형별 분기확인용
             String[] s;
 
             Console.Clear();
