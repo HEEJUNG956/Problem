@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem level 1 - x만큼 �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem level 1 - 행렬의 덧셈", "Problem level 1 - 행렬의 덧셈\Problem level 1 - 행렬의 덧셈.csproj", "{A70AAF0F-1689-457A-8CAB-BB21D589F4D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem level 1 - 핸드폰 번호 가리기", "Problem level 1 - 핸드폰 번호 가리기\Problem level 1 - 핸드폰 번호 가리기.csproj", "{538DCCEE-57D4-4AE0-B9AF-22C23E60625B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A70AAF0F-1689-457A-8CAB-BB21D589F4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A70AAF0F-1689-457A-8CAB-BB21D589F4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A70AAF0F-1689-457A-8CAB-BB21D589F4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538DCCEE-57D4-4AE0-B9AF-22C23E60625B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538DCCEE-57D4-4AE0-B9AF-22C23E60625B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538DCCEE-57D4-4AE0-B9AF-22C23E60625B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538DCCEE-57D4-4AE0-B9AF-22C23E60625B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
